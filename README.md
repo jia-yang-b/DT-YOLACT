@@ -17,13 +17,15 @@ Please see the paper.
 * Pytorch 1.0.1
 
 train dataset：
-images：yolact/data/coco/train
-lables：yolact/data/coco/annotations/instances_cell_train.json
+*images：yolact/data/coco/train
+*lables：yolact/data/coco/annotations/instances_cell_train.json
+
 val dataset：
-images：yolact/data/coco/val
-lables：yolact/data/coco/annotations/instances_cell_val.json
+*images：yolact/data/coco/val
+*lables：yolact/data/coco/annotations/instances_cell_val.json
+
 test dataset：
-images：yolact/data/coco/test
+*images：yolact/data/coco/test
 
 2.Training:  
 * Prepare the required images and store them in new_data folder, the example format of the training, validation, and testing datasets is in the  "yolact/data/coco" folder.
