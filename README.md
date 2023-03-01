@@ -1,7 +1,7 @@
 DT-YOLACT
 This repo. is the official implementation of "Nuclei Instance Segmentation and Classification in Histopathological Images using a DT-YOLACT" .
 Please see the paper.
-# DKS-DoubleU-Net
+# DT-YOLACT
 
 ## Overview    
 <img width="457" alt="image" src="https://user-images.githubusercontent.com/59470630/222135358-fefe13d4-785f-4079-903a-f6b8b88e8b02.png">
