@@ -10,6 +10,7 @@ Please see the paper.
 ## MPQS in different organizations on different networks
 <img width="361" alt="image" src="https://user-images.githubusercontent.com/59470630/222135775-4c03a3c6-166b-4794-a914-72dce0f1d24c.png">
 
+checkpoints:链接：https://pan.baidu.com/s/1R3l7FKdI0ufXs1ptz7cCiQ 提取码：n2qv
 
 ## Run  
 1.Requirements:  
